@@ -1,4 +1,5 @@
 flask
 adafruit-circuitpython-dht
 apscheduler==2.1.2
+infludb
 
